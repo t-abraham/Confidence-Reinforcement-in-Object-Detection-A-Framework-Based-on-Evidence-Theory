@@ -1,0 +1,665 @@
+Loading Faster RCNN...
+Backbone Model: "VGG_16"
+Pretained: True
+Loaded information for Model: vgg
+-> Epoch: 10
+-> mAP: 0.21784675121307373
+
+Loading Faster RCNN...
+Backbone Model: "Resnet_18"
+Pretained: True
+Loaded information for Model: resnet
+-> Epoch: 27
+-> mAP: 0.25488412380218506
+
+Loading Faster RCNN...
+Backbone Model: "convnext_base"
+Pretained: True
+Loaded information for Model: convnext
+-> Epoch: 27
+-> mAP: 0.41972458362579346
+
+Loading Faster RCNN...
+Backbone Model: "squeezenet1_0"
+Pretained: True
+Loaded information for Model: squeezenet
+-> Epoch: 18
+-> mAP: 0.1638934314250946
+
+Loading Faster RCNN...
+Backbone Model: "efficientnet_b0"
+Pretained: True
+Loaded information for Model: efficientnet
+-> Epoch: 38
+-> mAP: 0.2881445288658142
+
+Loading Faster RCNN...
+Backbone Model: "shufflenet_v2_x1_0"
+Pretained: True
+Loaded information for Model: shufflenet
+-> Epoch: 39
+-> mAP: 0.23012647032737732
+
+Loading Faster RCNN...
+Backbone Model: "mobilenet_v2"
+Pretained: True
+Loaded information for Model: mobilenet
+-> Epoch: 28
+-> mAP: 0.24518424272537231
+
+Number of testing samples: 4282
+
+Data loading took : 1.0 second(s)
+
+**************************** Trial - 0 ****************************
+score_thres -> 0.4
+iou_thres -> 0.3
+
+*************************************************************
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 8 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 8 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 7 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 7 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 3 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 7 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 7 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 2 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 1 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 4 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Fixed 5 boxes coordinates > 1. Check that your boxes was normalized at [0, 1]
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+Warning. Removed 1 boxes with zero area!
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+----------------------------------------------------------------------
+Model (ROC)  MAP Global: [0.146]
+----------------------------------------------------------------------
+Model (ROC)  MAP per class: [0.206, 0.147, 0.248, 0.149, 0.226, 0.101, 0.168, 0.233, 0.122, 0.062, 0.281, 0.16, 0.199, 0.177, 0.056, 0.032, 0.074, 0.033, 0.111, 0.131]
+----------------------------------------------------------------------
+2968.0; 2.0; 5.0; 1.0; 11.0; 7.0; 1.0; 1.0; 4.0; 4.0; 0.0; 3.0; 12.0; 8.0; 6.0; 17.0; 4.0; 1.0; 18.0; 4.0; 886.0
+4.0; 155.0; 0.0; 0.0; 3.0; 2.0; 0.0; 1.0; 0.0; 1.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 27.0
+2.0; 1.0; 224.0; 2.0; 15.0; 4.0; 1.0; 2.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 11.0
+1.0; 0.0; 1.0; 86.0; 9.0; 4.0; 6.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 14.0
+9.0; 6.0; 19.0; 9.0; 207.0; 5.0; 9.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 1.0; 1.0; 0.0; 17.0
+11.0; 3.0; 0.0; 16.0; 4.0; 76.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 88.0
+0.0; 1.0; 3.0; 6.0; 7.0; 0.0; 148.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 18.0
+1.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 158.0; 0.0; 2.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 1.0; 14.0
+6.0; 0.0; 0.0; 0.0; 1.0; 1.0; 0.0; 0.0; 58.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 30.0
+3.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 2.0; 0.0; 89.0; 1.0; 0.0; 0.0; 3.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 36.0
+0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 1.0; 113.0; 2.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 14.0
+4.0; 1.0; 0.0; 0.0; 1.0; 0.0; 0.0; 3.0; 1.0; 2.0; 2.0; 287.0; 8.0; 3.0; 0.0; 1.0; 1.0; 0.0; 0.0; 0.0; 108.0
+15.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 90.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 25.0
+1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 1.0; 3.0; 1.0; 0.0; 106.0; 0.0; 1.0; 0.0; 0.0; 0.0; 1.0; 16.0
+1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 67.0; 2.0; 1.0; 1.0; 0.0; 0.0; 12.0
+7.0; 0.0; 0.0; 1.0; 3.0; 0.0; 0.0; 1.0; 1.0; 0.0; 1.0; 0.0; 2.0; 0.0; 1.0; 148.0; 17.0; 1.0; 6.0; 3.0; 83.0
+1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 8.0; 66.0; 2.0; 5.0; 0.0; 29.0
+0.0; 2.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 77.0; 0.0; 0.0; 39.0
+4.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 10.0; 1.0; 0.0; 65.0; 0.0; 25.0
+3.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 69.0; 30.0
+1240.0; 109.0; 89.0; 81.0; 110.0; 66.0; 127.0; 81.0; 105.0; 169.0; 64.0; 317.0; 89.0; 71.0; 311.0; 568.0; 142.0; 226.0; 83.0; 116.0; 0.0
+Calculated:
+True Positive: [2968.  155.  224.   86.  207.   76.  148.  158.   58.   89.  113.  287.
+   90.  106.   67.  148.   66.   77.   65.   69.]
+False Positive: [995.  40.  40.  35.  77. 123.  36.  21.  38.  47.  19. 135.  42.  25.
+  18. 127.  46.  43.  41.  36.]
+False Negative: [1313.  125.  119.  116.  165.   89.  146.   93.  114.  181.   72.  325.
+  112.   88.  319.  609.  167.  232.  116.  125.]
+Calculated per Classes:
+Precision: [0.74892758 0.79487179 0.84848485 0.7107438  0.72887324 0.38190955 0.80434783 0.88268156 0.60416667 0.65441176 0.85606061 0.68009479 0.68181818 0.80916031 0.78823529 0.53818182 0.58928571 0.64166667 0.61320755 0.65714286]
+Recall: [0.69329596 0.55357143 0.65306122 0.42574257 0.55645161 0.46060606 0.50340136 0.62948207 0.3372093  0.32962963 0.61081081 0.46895425 0.44554455 0.54639175 0.17357513 0.19550859 0.2832618  0.24919094 0.35911602 0.3556701 ]
+F1 Score: [0.72003882 0.65263158 0.73805601 0.53250774 0.63109756 0.41758242 0.61924686 0.73488372 0.43283582 0.43842365 0.71293375 0.55512573 0.53892216 0.65230769 0.28450106 0.28682171 0.3826087  0.35897436 0.45296167 0.46153846]
+Calculated Mean:
+Precision: 0.7007136205761455
+Recall: 0.44152375862381577
+F1 Score: 0.5301999729358369
+----------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+----------------------------------------------------------------------
+Model (NMS)  MAP Global: [0.22]
+----------------------------------------------------------------------
+Model (NMS)  MAP per class: [0.319, 0.2, 0.332, 0.203, 0.311, 0.136, 0.261, 0.313, 0.245, 0.109, 0.372, 0.245, 0.279, 0.249, 0.114, 0.066, 0.145, 0.079, 0.18, 0.232]
+----------------------------------------------------------------------
+3653.0; 25.0; 15.0; 10.0; 24.0; 17.0; 5.0; 6.0; 14.0; 11.0; 1.0; 15.0; 11.0; 3.0; 16.0; 45.0; 13.0; 9.0; 22.0; 11.0; 14408.0
+15.0; 147.0; 10.0; 4.0; 11.0; 5.0; 4.0; 1.0; 0.0; 1.0; 0.0; 1.0; 2.0; 0.0; 0.0; 1.0; 1.0; 1.0; 1.0; 1.0; 1460.0
+10.0; 9.0; 179.0; 4.0; 56.0; 2.0; 8.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 4.0; 1.0; 0.0; 0.0; 0.0; 1043.0
+13.0; 5.0; 2.0; 67.0; 43.0; 29.0; 48.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 1.0; 1.0; 1285.0
+21.0; 21.0; 73.0; 25.0; 177.0; 26.0; 23.0; 1.0; 2.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 2.0; 1.0; 0.0; 2.0; 0.0; 1659.0
+38.0; 15.0; 11.0; 34.0; 25.0; 67.0; 9.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 0.0; 1.0; 1.0; 0.0; 2.0; 0.0; 1535.0
+3.0; 8.0; 16.0; 33.0; 14.0; 5.0; 157.0; 1.0; 1.0; 0.0; 0.0; 1.0; 0.0; 0.0; 2.0; 1.0; 0.0; 2.0; 2.0; 0.0; 1255.0
+4.0; 4.0; 2.0; 0.0; 0.0; 0.0; 0.0; 177.0; 1.0; 8.0; 2.0; 5.0; 3.0; 4.0; 1.0; 0.0; 2.0; 1.0; 0.0; 0.0; 1108.0
+11.0; 4.0; 1.0; 1.0; 0.0; 0.0; 0.0; 0.0; 106.0; 4.0; 0.0; 0.0; 32.0; 2.0; 0.0; 5.0; 3.0; 6.0; 1.0; 1.0; 1156.0
+11.0; 2.0; 4.0; 0.0; 1.0; 1.0; 0.0; 18.0; 1.0; 155.0; 5.0; 9.0; 0.0; 16.0; 1.0; 4.0; 0.0; 2.0; 4.0; 0.0; 2038.0
+4.0; 0.0; 1.0; 0.0; 1.0; 0.0; 0.0; 2.0; 0.0; 4.0; 114.0; 22.0; 1.0; 17.0; 1.0; 1.0; 1.0; 0.0; 0.0; 1.0; 1099.0
+16.0; 0.0; 0.0; 0.0; 0.0; 1.0; 1.0; 12.0; 2.0; 11.0; 22.0; 424.0; 20.0; 14.0; 2.0; 5.0; 1.0; 1.0; 1.0; 3.0; 3459.0
+26.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 2.0; 15.0; 1.0; 1.0; 9.0; 112.0; 1.0; 1.0; 2.0; 2.0; 0.0; 1.0; 0.0; 1099.0
+2.0; 0.0; 1.0; 0.0; 1.0; 0.0; 1.0; 8.0; 0.0; 9.0; 12.0; 2.0; 2.0; 117.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1162.0
+7.0; 3.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 3.0; 1.0; 0.0; 187.0; 3.0; 4.0; 4.0; 0.0; 1.0; 1246.0
+47.0; 1.0; 7.0; 3.0; 3.0; 6.0; 2.0; 2.0; 3.0; 8.0; 2.0; 2.0; 0.0; 0.0; 8.0; 373.0; 32.0; 4.0; 38.0; 10.0; 4775.0
+10.0; 1.0; 2.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 2.0; 0.0; 4.0; 1.0; 1.0; 1.0; 41.0; 128.0; 3.0; 4.0; 2.0; 1648.0
+14.0; 2.0; 1.0; 0.0; 1.0; 0.0; 1.0; 1.0; 2.0; 3.0; 0.0; 2.0; 0.0; 1.0; 10.0; 16.0; 0.0; 195.0; 1.0; 3.0; 1896.0
+64.0; 1.0; 8.0; 1.0; 4.0; 0.0; 1.0; 1.0; 0.0; 0.0; 0.0; 2.0; 0.0; 1.0; 2.0; 45.0; 9.0; 1.0; 94.0; 2.0; 1888.0
+4.0; 0.0; 2.0; 0.0; 0.0; 0.0; 1.0; 1.0; 0.0; 0.0; 3.0; 2.0; 1.0; 5.0; 3.0; 11.0; 0.0; 3.0; 0.0; 128.0; 1096.0
+325.0; 32.0; 10.0; 20.0; 12.0; 5.0; 33.0; 21.0; 25.0; 53.0; 22.0; 114.0; 16.0; 13.0; 151.0; 199.0; 34.0; 77.0; 9.0; 31.0; 0.0
+Calculated:
+True Positive: [3653.  147.  179.   67.  177.   67.  157.  177.  106.  155.  114.  424.
+  112.  117.  187.  373.  128.  195.   94.  128.]
+False Positive: [14681.  1519.  1138.  1430.  1856.  1673.  1344.  1145.  1227.  2117.
+  1155.  3571.  1161.  1200.  1273.  4953.  1721.  1954.  2030.  1132.]
+False Negative: [645. 134. 166. 135. 196.  98. 137.  79.  66. 115.  71. 194.  90.  79.
+ 199. 387. 105. 115.  89.  67.]
+Calculated per Classes:
+Precision: [0.1992473  0.08823529 0.13591496 0.04475618 0.08706345 0.03850575
+ 0.10459694 0.13388805 0.07951988 0.06822183 0.08983452 0.10613267
+ 0.08798115 0.08883827 0.12808219 0.0700338  0.06922661 0.09073988
+ 0.04425612 0.1015873 ]
+Recall: [0.8499302  0.52313167 0.51884058 0.33168317 0.47453083 0.40606061
+ 0.53401361 0.69140625 0.61627907 0.57407407 0.61621622 0.68608414
+ 0.55445545 0.59693878 0.48445596 0.49078947 0.54935622 0.62903226
+ 0.5136612  0.65641026]
+F1 Score: [0.32281725 0.15100154 0.21540313 0.07886992 0.14713217 0.07034121 0.17493036 0.2243346  0.14086379 0.12195122 0.1568088  0.18382831 0.15186441 0.15465962 0.20260022 0.1225764  0.12295869 0.15860106 0.08149111 0.17594502]
+Calculated Mean:
+Precision: 0.09283310608098642
+Recall: 0.5648675004448582
+F1 Score: 0.15794894156725672
+----------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+----------------------------------------------------------------------
+Model (Soft-NMS)  MAP Global: [0.22]
+----------------------------------------------------------------------
+Model (Soft-NMS)  MAP per class: [0.32, 0.203, 0.339, 0.197, 0.315, 0.135, 0.262, 0.314, 0.239, 0.108, 0.376, 0.246, 0.276, 0.25, 0.114, 0.066, 0.145, 0.078, 0.175, 0.234]
+----------------------------------------------------------------------
+3653.0; 28.0; 17.0; 10.0; 29.0; 14.0; 5.0; 6.0; 15.0; 11.0; 1.0; 15.0; 11.0; 3.0; 18.0; 46.0; 13.0; 10.0; 21.0; 8.0; 14487.0
+11.0; 148.0; 12.0; 5.0; 9.0; 6.0; 4.0; 1.0; 0.0; 2.0; 0.0; 1.0; 2.0; 0.0; 0.0; 0.0; 1.0; 1.0; 1.0; 1.0; 1511.0
+11.0; 11.0; 187.0; 3.0; 54.0; 2.0; 10.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 5.0; 1.0; 0.0; 0.0; 0.0; 1219.0
+10.0; 5.0; 1.0; 69.0; 39.0; 28.0; 54.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 1.0; 1409.0
+21.0; 18.0; 68.0; 23.0; 182.0; 29.0; 21.0; 1.0; 2.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 2.0; 0.0; 1.0; 3.0; 0.0; 1919.0
+35.0; 12.0; 8.0; 33.0; 23.0; 67.0; 9.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 0.0; 1.0; 1.0; 0.0; 3.0; 0.0; 1682.0
+3.0; 8.0; 16.0; 34.0; 18.0; 4.0; 150.0; 1.0; 1.0; 0.0; 0.0; 1.0; 0.0; 0.0; 1.0; 1.0; 0.0; 2.0; 2.0; 0.0; 1285.0
+4.0; 4.0; 2.0; 0.0; 0.0; 0.0; 0.0; 178.0; 1.0; 8.0; 3.0; 5.0; 2.0; 4.0; 1.0; 1.0; 2.0; 1.0; 1.0; 0.0; 1153.0
+12.0; 4.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 106.0; 5.0; 0.0; 0.0; 33.0; 2.0; 0.0; 6.0; 2.0; 6.0; 1.0; 0.0; 1231.0
+11.0; 2.0; 3.0; 0.0; 1.0; 0.0; 0.0; 18.0; 1.0; 152.0; 4.0; 8.0; 0.0; 18.0; 1.0; 2.0; 0.0; 2.0; 4.0; 0.0; 1992.0
+4.0; 0.0; 1.0; 0.0; 1.0; 0.0; 1.0; 2.0; 0.0; 4.0; 113.0; 25.0; 1.0; 18.0; 1.0; 1.0; 1.0; 0.0; 0.0; 1.0; 1117.0
+15.0; 0.0; 0.0; 0.0; 0.0; 1.0; 1.0; 12.0; 0.0; 12.0; 23.0; 422.0; 23.0; 14.0; 1.0; 5.0; 1.0; 1.0; 1.0; 4.0; 3493.0
+25.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 17.0; 1.0; 0.0; 10.0; 110.0; 1.0; 1.0; 3.0; 2.0; 0.0; 1.0; 1.0; 1202.0
+3.0; 0.0; 1.0; 0.0; 1.0; 0.0; 1.0; 8.0; 0.0; 9.0; 13.0; 1.0; 1.0; 116.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 1213.0
+8.0; 3.0; 1.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 3.0; 1.0; 0.0; 189.0; 3.0; 3.0; 4.0; 0.0; 1.0; 1255.0
+46.0; 1.0; 8.0; 3.0; 2.0; 8.0; 2.0; 3.0; 3.0; 7.0; 2.0; 2.0; 0.0; 0.0; 8.0; 372.0; 28.0; 3.0; 40.0; 10.0; 4638.0
+11.0; 1.0; 2.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 2.0; 0.0; 3.0; 1.0; 1.0; 2.0; 40.0; 133.0; 3.0; 7.0; 2.0; 1707.0
+12.0; 2.0; 1.0; 0.0; 1.0; 0.0; 1.0; 0.0; 2.0; 3.0; 0.0; 2.0; 0.0; 1.0; 8.0; 17.0; 0.0; 194.0; 2.0; 3.0; 1830.0
+71.0; 1.0; 7.0; 1.0; 3.0; 0.0; 0.0; 1.0; 0.0; 1.0; 0.0; 2.0; 0.0; 1.0; 2.0; 46.0; 11.0; 1.0; 91.0; 2.0; 1987.0
+4.0; 0.0; 2.0; 0.0; 0.0; 0.0; 1.0; 1.0; 0.0; 0.0; 3.0; 2.0; 1.0; 4.0; 3.0; 10.0; 0.0; 3.0; 0.0; 130.0; 1138.0
+328.0; 32.0; 8.0; 20.0; 10.0; 5.0; 34.0; 21.0; 24.0; 53.0; 22.0; 115.0; 16.0; 12.0; 150.0; 198.0; 34.0; 77.0; 5.0; 31.0; 0.0
+Calculated:
+True Positive: [3653.  148.  187.   69.  182.   67.  150.  178.  106.  152.  113.  422.
+  110.  116.  189.  372.  133.  194.   91.  130.]
+False Positive: [14768.  1568.  1317.  1549.  2108.  1809.  1377.  1192.  1303.  2067.
+  1178.  3607.  1266.  1252.  1283.  4814.  1783.  1885.  2137.  1172.]
+False Negative: [645. 133. 158. 133. 191.  98. 144.  78.  66. 118.  72. 196.  92.  80.
+ 197. 388. 100. 116.  92.  65.]
+Calculated per Classes:
+Precision: [0.19830628 0.08624709 0.12433511 0.04264524 0.07947598 0.03571429
+ 0.09823183 0.12992701 0.07523066 0.06849932 0.08752905 0.10474063
+ 0.07994186 0.08479532 0.12839674 0.07173159 0.06941545 0.09331409
+ 0.04084381 0.09984639]
+Recall: [0.8499302  0.52669039 0.54202899 0.34158416 0.48793566 0.40606061
+ 0.51020408 0.6953125  0.61627907 0.56296296 0.61081081 0.6828479
+ 0.54455446 0.59183673 0.48963731 0.48947368 0.57081545 0.62580645
+ 0.49726776 0.66666667]
+F1 Score: [0.32158106 0.14822233 0.2022715  0.07582418 0.13668795 0.06565409 0.16474465 0.21894219 0.13409235 0.1221374  0.15311653 0.18162255 0.13941698 0.1483376  0.20344456 0.12512614 0.1237785  0.16241105 0.07548735 0.17368069]
+Calculated Mean:
+Precision: 0.08995838618261695
+Recall: 0.5654352914260956
+F1 Score: 0.1538289822551596
+----------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+----------------------------------------------------------------------
+Model (NMW)  MAP Global: [0.226]
+----------------------------------------------------------------------
+Model (NMW)  MAP per class: [0.328, 0.208, 0.349, 0.207, 0.324, 0.137, 0.264, 0.326, 0.24, 0.113, 0.384, 0.25, 0.294, 0.254, 0.117, 0.069, 0.152, 0.08, 0.186, 0.239]
+----------------------------------------------------------------------
+3666.0; 25.0; 17.0; 8.0; 27.0; 19.0; 5.0; 7.0; 14.0; 11.0; 1.0; 14.0; 12.0; 3.0; 18.0; 42.0; 14.0; 7.0; 19.0; 10.0; 14436.0
+13.0; 151.0; 13.0; 5.0; 12.0; 6.0; 5.0; 1.0; 0.0; 1.0; 0.0; 1.0; 2.0; 0.0; 0.0; 1.0; 0.0; 1.0; 1.0; 1.0; 1441.0
+11.0; 9.0; 180.0; 2.0; 50.0; 2.0; 7.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 4.0; 1.0; 0.0; 0.0; 0.0; 1051.0
+11.0; 3.0; 2.0; 68.0; 43.0; 25.0; 47.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 1.0; 1291.0
+20.0; 18.0; 70.0; 25.0; 184.0; 26.0; 20.0; 0.0; 2.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 3.0; 0.0; 1665.0
+32.0; 15.0; 9.0; 35.0; 22.0; 65.0; 10.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 0.0; 1.0; 1.0; 0.0; 2.0; 0.0; 1545.0
+4.0; 9.0; 15.0; 34.0; 11.0; 6.0; 159.0; 2.0; 1.0; 0.0; 0.0; 1.0; 0.0; 0.0; 2.0; 1.0; 0.0; 2.0; 2.0; 0.0; 1245.0
+4.0; 5.0; 2.0; 0.0; 0.0; 0.0; 0.0; 180.0; 1.0; 11.0; 2.0; 3.0; 2.0; 4.0; 1.0; 1.0; 1.0; 1.0; 0.0; 0.0; 1106.0
+10.0; 4.0; 0.0; 1.0; 0.0; 1.0; 0.0; 0.0; 107.0; 4.0; 0.0; 0.0; 34.0; 2.0; 0.0; 5.0; 3.0; 6.0; 1.0; 1.0; 1139.0
+13.0; 2.0; 3.0; 0.0; 1.0; 1.0; 0.0; 14.0; 1.0; 153.0; 4.0; 8.0; 1.0; 14.0; 1.0; 3.0; 1.0; 2.0; 4.0; 0.0; 2043.0
+4.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 2.0; 0.0; 3.0; 118.0; 25.0; 0.0; 16.0; 1.0; 2.0; 1.0; 0.0; 0.0; 2.0; 1093.0
+16.0; 0.0; 0.0; 0.0; 1.0; 1.0; 0.0; 11.0; 1.0; 11.0; 20.0; 424.0; 22.0; 15.0; 1.0; 5.0; 2.0; 1.0; 1.0; 3.0; 3465.0
+25.0; 1.0; 0.0; 0.0; 0.0; 1.0; 0.0; 2.0; 15.0; 0.0; 1.0; 11.0; 106.0; 1.0; 1.0; 3.0; 3.0; 0.0; 1.0; 0.0; 1088.0
+3.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 8.0; 0.0; 9.0; 12.0; 2.0; 2.0; 119.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1166.0
+6.0; 3.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 3.0; 1.0; 0.0; 187.0; 3.0; 4.0; 4.0; 0.0; 1.0; 1244.0
+46.0; 1.0; 8.0; 3.0; 4.0; 5.0; 2.0; 3.0; 3.0; 8.0; 2.0; 2.0; 1.0; 0.0; 8.0; 373.0; 31.0; 3.0; 38.0; 10.0; 4776.0
+11.0; 1.0; 2.0; 0.0; 0.0; 1.0; 0.0; 2.0; 0.0; 2.0; 0.0; 2.0; 0.0; 1.0; 1.0; 43.0; 129.0; 3.0; 4.0; 2.0; 1645.0
+13.0; 2.0; 1.0; 0.0; 1.0; 0.0; 1.0; 0.0; 2.0; 3.0; 0.0; 2.0; 0.0; 1.0; 9.0; 15.0; 1.0; 197.0; 2.0; 1.0; 1900.0
+58.0; 1.0; 7.0; 1.0; 4.0; 0.0; 1.0; 1.0; 0.0; 1.0; 0.0; 2.0; 0.0; 1.0; 2.0; 47.0; 6.0; 1.0; 95.0; 2.0; 1892.0
+5.0; 0.0; 3.0; 0.0; 0.0; 0.0; 1.0; 1.0; 0.0; 0.0; 2.0; 2.0; 1.0; 5.0; 3.0; 10.0; 0.0; 3.0; 0.0; 129.0; 1093.0
+327.0; 31.0; 12.0; 20.0; 12.0; 5.0; 35.0; 21.0; 25.0; 53.0; 22.0; 115.0; 18.0; 13.0; 151.0; 199.0; 35.0; 78.0; 10.0; 32.0; 0.0
+Calculated:
+True Positive: [3666.  151.  180.   68.  184.   65.  159.  180.  107.  153.  118.  424.
+  106.  119.  187.  373.  129.  197.   95.  129.]
+False Positive: [14709.  1504.  1138.  1425.  1851.  1674.  1335.  1144.  1211.  2116.
+  1151.  3576.  1153.  1203.  1270.  4954.  1720.  1954.  2027.  1129.]
+False Negative: [632. 130. 165. 134. 189. 100. 135.  76.  65. 117.  67. 194.  96.  77.
+ 199. 387. 104. 113.  88.  66.]
+Calculated per Classes:
+Precision: [0.1995102  0.09123867 0.13657056 0.04554588 0.09041769 0.0373778
+ 0.1064257  0.13595166 0.08118361 0.06743059 0.0929866  0.106
+ 0.0841938  0.09001513 0.12834592 0.07002065 0.06976744 0.09158531
+ 0.04476909 0.10254372]
+Recall: [0.85295486 0.53736655 0.52173913 0.33663366 0.49329759 0.39393939
+ 0.54081633 0.703125   0.62209302 0.56666667 0.63783784 0.68608414
+ 0.52475248 0.60714286 0.48445596 0.49078947 0.55364807 0.63548387
+ 0.51912568 0.66153846]
+F1 Score: [0.32338023 0.15599174 0.21647625 0.08023599 0.15282392 0.06827731 0.17785235 0.2278481  0.14362416 0.12051989 0.16231087 0.18362928 0.14510609 0.15678524 0.20293001 0.12255627 0.12391931 0.16009752 0.0824295  0.17756366]
+Calculated Mean:
+Precision: 0.09359400162450213
+Recall: 0.5684745515593421
+F1 Score: 0.1592178839772158
+----------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+----------------------------------------------------------------------
+Model (WBF)  MAP Global: [0.234]
+----------------------------------------------------------------------
+Model (WBF)  MAP per class: [0.33, 0.216, 0.36, 0.225, 0.33, 0.149, 0.272, 0.326, 0.245, 0.123, 0.382, 0.254, 0.316, 0.269, 0.127, 0.077, 0.145, 0.081, 0.205, 0.247]
+----------------------------------------------------------------------
+3655.0; 26.0; 17.0; 8.0; 26.0; 19.0; 4.0; 7.0; 15.0; 10.0; 1.0; 14.0; 11.0; 3.0; 16.0; 38.0; 13.0; 7.0; 20.0; 9.0; 14065.0
+14.0; 150.0; 12.0; 5.0; 16.0; 5.0; 4.0; 1.0; 0.0; 1.0; 0.0; 1.0; 2.0; 0.0; 1.0; 1.0; 0.0; 2.0; 1.0; 1.0; 1426.0
+10.0; 10.0; 181.0; 4.0; 50.0; 2.0; 8.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 4.0; 1.0; 0.0; 0.0; 0.0; 993.0
+9.0; 3.0; 2.0; 70.0; 46.0; 27.0; 49.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 1.0; 1262.0
+20.0; 17.0; 71.0; 23.0; 178.0; 26.0; 21.0; 0.0; 2.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 3.0; 0.0; 1.0; 3.0; 0.0; 1628.0
+35.0; 16.0; 10.0; 32.0; 21.0; 65.0; 10.0; 0.0; 1.0; 0.0; 0.0; 1.0; 0.0; 1.0; 0.0; 1.0; 1.0; 0.0; 2.0; 0.0; 1515.0
+2.0; 9.0; 15.0; 35.0; 13.0; 5.0; 155.0; 2.0; 1.0; 0.0; 0.0; 1.0; 0.0; 0.0; 2.0; 1.0; 0.0; 2.0; 1.0; 0.0; 1237.0
+4.0; 4.0; 2.0; 0.0; 0.0; 0.0; 0.0; 179.0; 1.0; 12.0; 2.0; 3.0; 2.0; 4.0; 1.0; 1.0; 1.0; 1.0; 0.0; 0.0; 1084.0
+12.0; 4.0; 0.0; 1.0; 0.0; 1.0; 0.0; 0.0; 107.0; 4.0; 0.0; 0.0; 34.0; 2.0; 0.0; 6.0; 3.0; 6.0; 1.0; 0.0; 1125.0
+12.0; 2.0; 3.0; 0.0; 1.0; 1.0; 0.0; 15.0; 1.0; 154.0; 4.0; 8.0; 1.0; 14.0; 1.0; 3.0; 1.0; 2.0; 5.0; 0.0; 2020.0
+4.0; 0.0; 1.0; 0.0; 1.0; 0.0; 1.0; 2.0; 0.0; 4.0; 115.0; 25.0; 0.0; 18.0; 0.0; 2.0; 1.0; 0.0; 0.0; 2.0; 1079.0
+15.0; 0.0; 0.0; 0.0; 1.0; 1.0; 0.0; 11.0; 1.0; 10.0; 20.0; 424.0; 22.0; 14.0; 0.0; 5.0; 2.0; 1.0; 1.0; 3.0; 3433.0
+25.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 2.0; 14.0; 0.0; 1.0; 11.0; 107.0; 1.0; 1.0; 3.0; 3.0; 0.0; 1.0; 1.0; 1063.0
+3.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 8.0; 0.0; 8.0; 15.0; 2.0; 2.0; 118.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1146.0
+7.0; 3.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 3.0; 1.0; 0.0; 189.0; 3.0; 5.0; 4.0; 0.0; 1.0; 1236.0
+50.0; 1.0; 8.0; 3.0; 2.0; 4.0; 2.0; 3.0; 3.0; 8.0; 2.0; 2.0; 1.0; 0.0; 7.0; 376.0; 33.0; 4.0; 37.0; 11.0; 4714.0
+11.0; 1.0; 2.0; 0.0; 0.0; 1.0; 0.0; 2.0; 0.0; 2.0; 0.0; 2.0; 0.0; 1.0; 1.0; 42.0; 126.0; 3.0; 5.0; 2.0; 1622.0
+11.0; 2.0; 1.0; 0.0; 1.0; 0.0; 3.0; 0.0; 2.0; 3.0; 0.0; 2.0; 0.0; 1.0; 9.0; 15.0; 1.0; 195.0; 2.0; 1.0; 1890.0
+63.0; 2.0; 5.0; 1.0; 5.0; 0.0; 1.0; 1.0; 0.0; 1.0; 0.0; 2.0; 0.0; 1.0; 3.0; 46.0; 7.0; 1.0; 94.0; 2.0; 1866.0
+6.0; 0.0; 3.0; 0.0; 1.0; 0.0; 1.0; 1.0; 0.0; 0.0; 2.0; 2.0; 1.0; 5.0; 3.0; 10.0; 0.0; 3.0; 0.0; 129.0; 1084.0
+330.0; 31.0; 12.0; 20.0; 11.0; 5.0; 35.0; 21.0; 24.0; 53.0; 22.0; 115.0; 18.0; 13.0; 152.0; 199.0; 35.0; 78.0; 10.0; 32.0; 0.0
+Calculated:
+True Positive: [3655.  150.  181.   70.  178.   65.  155.  179.  107.  154.  115.  424.
+  107.  118.  189.  376.  126.  195.   94.  129.]
+False Positive: [14329.  1493.  1083.  1401.  1815.  1646.  1326.  1122.  1199.  2094.
+  1140.  3540.  1127.  1185.  1264.  4895.  1697.  1944.  2007.  1122.]
+False Negative: [643. 131. 164. 132. 195. 100. 139.  77.  65. 116.  70. 194.  95.  78.
+ 197. 384. 107. 115.  89.  66.]
+Calculated per Classes:
+Precision: [0.20323621 0.09129641 0.1431962  0.04758668 0.08931259 0.03798948
+ 0.10465901 0.13758647 0.08192956 0.06850534 0.09163347 0.10696266
+ 0.08670989 0.09056025 0.13007571 0.07133371 0.06911684 0.0911641
+ 0.0447406  0.10311751]
+Recall: [0.85039553 0.53380783 0.52463768 0.34653465 0.4772118  0.39393939
+ 0.52721088 0.69921875 0.62209302 0.57037037 0.62162162 0.68608414
+ 0.52970297 0.60204082 0.48963731 0.49473684 0.54077253 0.62903226
+ 0.5136612  0.66153846]
+F1 Score: [0.3280675  0.15592516 0.22498446 0.08368201 0.15046492 0.06929638 0.17464789 0.22992935 0.14479026 0.1223193  0.15972222 0.18507202 0.14902507 0.15743829 0.20554649 0.12468911 0.12256809 0.15924867 0.08231173 0.17842324]
+Calculated Mean:
+Precision: 0.09453563365771436
+Recall: 0.5657124033600273
+F1 Score: 0.1604076078719328
+----------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+----------------------------------------------------------------------
+Model (squeezenet)  MAP Global: [0.164]
+----------------------------------------------------------------------
+Model (squeezenet)  MAP per class: [0.258, 0.15, 0.264, 0.163, 0.213, 0.13, 0.182, 0.277, 0.188, 0.073, 0.302, 0.168, 0.252, 0.218, 0.045, 0.037, 0.097, 0.035, 0.132, 0.101]
+----------------------------------------------------------------------
+3115.0; 23.0; 17.0; 6.0; 42.0; 22.0; 2.0; 3.0; 11.0; 10.0; 0.0; 11.0; 10.0; 3.0; 10.0; 32.0; 7.0; 8.0; 20.0; 6.0; 5980.0
+22.0; 150.0; 11.0; 4.0; 19.0; 5.0; 5.0; 4.0; 0.0; 2.0; 0.0; 0.0; 1.0; 0.0; 2.0; 3.0; 1.0; 3.0; 2.0; 1.0; 966.0
+9.0; 8.0; 186.0; 7.0; 50.0; 3.0; 9.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 2.0; 1.0; 0.0; 0.0; 0.0; 738.0
+5.0; 1.0; 2.0; 64.0; 28.0; 18.0; 41.0; 0.0; 1.0; 1.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 623.0
+19.0; 16.0; 66.0; 17.0; 151.0; 19.0; 24.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 5.0; 0.0; 0.0; 5.0; 0.0; 1044.0
+25.0; 8.0; 1.0; 33.0; 15.0; 66.0; 9.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 822.0
+1.0; 4.0; 7.0; 24.0; 11.0; 4.0; 112.0; 2.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 2.0; 2.0; 0.0; 509.0
+8.0; 1.0; 2.0; 0.0; 1.0; 0.0; 0.0; 163.0; 0.0; 14.0; 2.0; 4.0; 2.0; 4.0; 1.0; 1.0; 1.0; 1.0; 1.0; 1.0; 566.0
+15.0; 4.0; 2.0; 1.0; 1.0; 1.0; 0.0; 0.0; 100.0; 4.0; 1.0; 4.0; 26.0; 2.0; 0.0; 6.0; 2.0; 6.0; 1.0; 2.0; 741.0
+8.0; 1.0; 3.0; 0.0; 0.0; 0.0; 0.0; 13.0; 0.0; 111.0; 2.0; 5.0; 0.0; 6.0; 0.0; 3.0; 0.0; 2.0; 2.0; 1.0; 844.0
+1.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 1.0; 103.0; 16.0; 2.0; 10.0; 0.0; 2.0; 0.0; 0.0; 0.0; 2.0; 455.0
+22.0; 1.0; 0.0; 1.0; 0.0; 0.0; 2.0; 6.0; 1.0; 11.0; 11.0; 273.0; 13.0; 10.0; 1.0; 5.0; 2.0; 1.0; 3.0; 0.0; 1196.0
+27.0; 0.0; 1.0; 0.0; 1.0; 2.0; 0.0; 0.0; 12.0; 0.0; 2.0; 9.0; 111.0; 0.0; 0.0; 0.0; 2.0; 0.0; 1.0; 0.0; 746.0
+4.0; 0.0; 2.0; 0.0; 0.0; 2.0; 3.0; 4.0; 1.0; 8.0; 16.0; 4.0; 1.0; 120.0; 0.0; 2.0; 1.0; 2.0; 0.0; 1.0; 739.0
+13.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 1.0; 2.0; 67.0; 5.0; 2.0; 3.0; 0.0; 0.0; 397.0
+58.0; 3.0; 4.0; 1.0; 3.0; 4.0; 2.0; 3.0; 3.0; 7.0; 0.0; 3.0; 2.0; 0.0; 5.0; 190.0; 17.0; 0.0; 34.0; 9.0; 1911.0
+7.0; 0.0; 1.0; 0.0; 0.0; 1.0; 0.0; 1.0; 0.0; 3.0; 1.0; 3.0; 1.0; 2.0; 2.0; 34.0; 115.0; 2.0; 14.0; 1.0; 806.0
+8.0; 4.0; 1.0; 0.0; 0.0; 1.0; 1.0; 0.0; 0.0; 2.0; 0.0; 1.0; 1.0; 0.0; 6.0; 8.0; 1.0; 76.0; 0.0; 2.0; 484.0
+61.0; 1.0; 7.0; 2.0; 4.0; 0.0; 1.0; 1.0; 0.0; 2.0; 1.0; 1.0; 0.0; 1.0; 1.0; 24.0; 7.0; 1.0; 70.0; 2.0; 1028.0
+1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 2.0; 0.0; 1.0; 1.0; 2.0; 1.0; 1.0; 1.0; 0.0; 0.0; 0.0; 1.0; 61.0; 266.0
+869.0; 56.0; 32.0; 42.0; 48.0; 17.0; 83.0; 53.0; 43.0; 91.0; 44.0; 281.0; 29.0; 34.0; 288.0; 437.0; 74.0; 202.0; 27.0; 105.0; 0.0
+Calculated:
+True Positive: [3115.  150.  186.   64.  151.   66.  112.  163.  100.  111.  103.  273.
+  111.  120.   67.  190.  115.   76.   70.   61.]
+False Positive: [6223. 1051.  828.  723. 1217.  916.  567.  610.  819.  890.  490. 1286.
+  803.  790.  426. 2069.  879.  520. 1145.  277.]
+False Negative: [1183.  132.  159.  138.  224.   99.  182.   93.   72.  159.   82.  345.
+   91.   76.  319.  570.  118.  234.  113.  134.]
+Calculated per Classes:
+Precision: [0.33358321 0.12489592 0.18343195 0.08132147 0.11038012 0.06720978
+ 0.16494845 0.21086675 0.10881393 0.11088911 0.17369309 0.17511225
+ 0.1214442  0.13186813 0.13590264 0.08410801 0.11569416 0.12751678
+ 0.05761317 0.18047337]
+Recall: [0.7247557  0.53191489 0.53913043 0.31683168 0.40266667 0.4
+ 0.38095238 0.63671875 0.58139535 0.41111111 0.55675676 0.44174757
+ 0.54950495 0.6122449  0.17357513 0.25       0.49356223 0.24516129
+ 0.38251366 0.31282051]
+F1 Score: [0.45687885 0.20229265 0.27373068 0.12942366 0.17326449 0.11508282 0.23021583 0.31681244 0.18331806 0.17466562 0.26478149 0.25080386 0.19892473 0.21699819 0.15244596 0.12586949 0.18744906 0.16777042 0.10014306 0.22889306]
+Calculated Mean:
+Precision: 0.13998832492761773
+Recall: 0.44716819865630936
+F1 Score: 0.20748822129158442
+----------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+----------------------------------------------------------------------
+Model (vgg)  MAP Global: [0.218]
+----------------------------------------------------------------------
+Model (vgg)  MAP per class: [0.319, 0.199, 0.343, 0.197, 0.316, 0.132, 0.255, 0.311, 0.234, 0.106, 0.372, 0.243, 0.28, 0.245, 0.111, 0.067, 0.142, 0.076, 0.177, 0.233]
+----------------------------------------------------------------------
+3719.0; 16.0; 13.0; 9.0; 24.0; 13.0; 7.0; 7.0; 13.0; 9.0; 1.0; 14.0; 10.0; 3.0; 19.0; 43.0; 17.0; 8.0; 21.0; 8.0; 12353.0
+7.0; 161.0; 9.0; 4.0; 7.0; 4.0; 4.0; 0.0; 0.0; 2.0; 0.0; 1.0; 2.0; 0.0; 0.0; 1.0; 0.0; 0.0; 1.0; 1.0; 789.0
+6.0; 9.0; 187.0; 2.0; 43.0; 1.0; 6.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 3.0; 0.0; 0.0; 0.0; 0.0; 700.0
+10.0; 3.0; 2.0; 72.0; 38.0; 33.0; 45.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 2.0; 0.0; 1015.0
+14.0; 16.0; 73.0; 26.0; 204.0; 26.0; 18.0; 0.0; 3.0; 0.0; 0.0; 0.0; 0.0; 1.0; 0.0; 1.0; 0.0; 1.0; 3.0; 0.0; 1227.0
+29.0; 16.0; 8.0; 34.0; 24.0; 71.0; 5.0; 0.0; 1.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 3.0; 1.0; 0.0; 2.0; 0.0; 1255.0
+4.0; 7.0; 16.0; 30.0; 14.0; 3.0; 165.0; 2.0; 2.0; 0.0; 0.0; 1.0; 0.0; 1.0; 2.0; 1.0; 0.0; 1.0; 2.0; 0.0; 986.0
+2.0; 4.0; 1.0; 0.0; 0.0; 0.0; 0.0; 175.0; 0.0; 5.0; 1.0; 4.0; 0.0; 1.0; 0.0; 0.0; 2.0; 0.0; 0.0; 0.0; 790.0
+4.0; 3.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 104.0; 3.0; 0.0; 0.0; 32.0; 1.0; 0.0; 4.0; 0.0; 3.0; 0.0; 0.0; 707.0
+9.0; 1.0; 3.0; 0.0; 1.0; 0.0; 0.0; 17.0; 1.0; 155.0; 5.0; 5.0; 0.0; 22.0; 2.0; 3.0; 1.0; 1.0; 4.0; 0.0; 1520.0
+4.0; 1.0; 0.0; 0.0; 1.0; 0.0; 1.0; 2.0; 0.0; 2.0; 116.0; 22.0; 0.0; 18.0; 1.0; 1.0; 1.0; 0.0; 0.0; 1.0; 898.0
+11.0; 0.0; 0.0; 0.0; 0.0; 2.0; 2.0; 13.0; 1.0; 11.0; 24.0; 422.0; 23.0; 11.0; 1.0; 4.0; 0.0; 1.0; 1.0; 3.0; 2839.0
+18.0; 0.0; 0.0; 0.0; 0.0; 0.0; 0.0; 1.0; 14.0; 1.0; 1.0; 10.0; 110.0; 1.0; 1.0; 4.0; 0.0; 1.0; 0.0; 1.0; 714.0
+3.0; 0.0; 2.0; 0.0; 1.0; 0.0; 0.0; 4.0; 0.0; 8.0; 7.0; 5.0; 1.0; 112.0; 0.0; 0.0; 1.0; 0.0; 0.0; 1.0; 727.0
+4.0; 2.0; 2.0; 1.0; 0.0; 1.0; 0.0; 0.0; 0.0; 0.0; 0.0; 3.0; 1.0; 0.0; 185.0; 4.0; 6.0; 2.0; 0.0; 1.0; 912.0
+24.0; 0.0; 7.0; 1.0; 2.0; 5.0; 2.0; 3.0; 3.0; 7.0; 2.0; 2.0; 0.0; 1.0; 5.0; 369.0; 34.0; 4.0; 35.0; 10.0; 3543.0
+6.0; 1.0; 1.0; 0.0; 0.0; 0.0; 1.0; 3.0; 0.0; 0.0; 0.0; 1.0; 0.0; 0.0; 0.0; 37.0; 127.0; 5.0; 2.0; 2.0; 1231.0
+10.0; 4.0; 1.0; 0.0; 2.0; 0.0; 1.0; 0.0; 2.0; 4.0; 0.0; 1.0; 0.0; 2.0; 6.0; 14.0; 1.0; 200.0; 1.0; 1.0; 1575.0
+54.0; 1.0; 4.0; 0.0; 1.0; 0.0; 0.0; 2.0; 0.0; 1.0; 0.0; 1.0; 1.0; 1.0; 1.0; 41.0; 6.0; 0.0; 96.0; 1.0; 1369.0
+4.0; 0.0; 3.0; 0.0; 0.0; 0.0; 1.0; 1.0; 0.0; 0.0; 4.0; 3.0; 0.0; 7.0; 3.0; 11.0; 0.0; 3.0; 0.0; 132.0; 945.0
+356.0; 37.0; 13.0; 23.0; 13.0; 6.0; 36.0; 24.0; 28.0; 62.0; 24.0; 122.0; 22.0; 14.0; 160.0; 215.0; 36.0; 80.0; 13.0; 33.0; 0.0
+Calculated:
+True Positive: [3719.  161.  187.   72.  204.   71.  165.  175.  104.  155.  116.  422.
+  110.  112.  185.  369.  127.  200.   96.  132.]
+False Positive: [12608.   832.   771.  1149.  1409.  1379.  1072.   810.   758.  1595.
+   953.  2947.   767.   760.   939.  3690.  1290.  1625.  1484.   985.]
+False Negative: [579. 121. 158. 130. 171.  94. 129.  81.  68. 115.  69. 196.  92.  84.
+ 201. 391. 106. 110.  87.  63.]
+Calculated per Classes:
+Precision: [0.2277822  0.16213494 0.19519833 0.05896806 0.12647241 0.04896552
+ 0.13338723 0.17766497 0.12064965 0.08857143 0.10851263 0.12525972
+ 0.12542759 0.12844037 0.16459075 0.09090909 0.08962597 0.10958904
+ 0.06075949 0.11817368]
+Recall: [0.86528618 0.57092199 0.54202899 0.35643564 0.544      0.43030303
+ 0.56122449 0.68359375 0.60465116 0.57407407 0.62702703 0.6828479
+ 0.54455446 0.57142857 0.47927461 0.48552632 0.54506438 0.64516129
+ 0.52459016 0.67692308]
+F1 Score: [0.3606303  0.25254902 0.28702993 0.10119466 0.20523139 0.0879257 0.2155454  0.28203062 0.20116054 0.15346535 0.18500797 0.21168799 0.20389249 0.20973783 0.24503311 0.15314381 0.15393939 0.18735363 0.10890528 0.20121951]
+Calculated Mean:
+Precision: 0.12305415397184391
+Recall: 0.5757458543930775
+F1 Score: 0.2003341956089527
+----------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+********************************************************
+Best score for Trial - 0 is None

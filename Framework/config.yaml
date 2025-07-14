@@ -1,0 +1,51 @@
+
+data:
+    main_dir : "pascal_voc_2012"
+    train_dir: "pascal_voc_2012/training"
+    val_dir: "pascal_voc_2012/validation"
+    test_dir: "pascal_voc_2012/testing"
+   
+MASKED_CNN_GBL : false
+MULTI_THREADED_DATA_LOADING_NT : true
+MULTI_THREADED_DATA_LOADING_WORKERS_NT : 1000
+MULTI_THREADED_DATA_LOADING_QUEUE_NT : 10000
+
+visualize_images : false
+
+# output_folder_name: restnet_output_WGT
+# saving_model_name : resnet__WGT
+# comment: 'to store all the best models in a separate folder, name the model according to the type of training'
+
+model_name: resnet
+Num_Epochs : 40
+
+trainer:
+    batch_size : 2
+    shuffle : True
+    num_workers : 10
+        
+validator:
+    batch_size : 2
+    shuffle : False
+    num_workers : 10
+    
+infernce:
+    batch_size : 1
+    shuffle : False
+    num_workers : 10
+    
+loss_type: loss_inside_multiplication
+comment: "loss_multiplication or loss_addition or loss_inside_multiplication"
+
+training_type: train_val_Advance
+trainning_file_names:
+ - file_name: train_val_basic
+   comment: "Basic training loop, without any multiplier to influence the training loss "
+ - file_name: train_val_WGT
+   comment: " training loop with multplier factor to influence the training loss, multiplier(Gt + per epoch val pred)"
+ - file_name: train_val_Advance
+   comment: " training loop with multplier factor to influence the training loss, multiplier(Gt + every epoch val pred)"
+   
+
+
+
